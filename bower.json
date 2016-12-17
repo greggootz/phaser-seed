@@ -1,0 +1,20 @@
+{
+  "name": "phaser1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Greg <greg@example.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
